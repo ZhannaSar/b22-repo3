@@ -16,3 +16,14 @@ Now our work will continiune locally
 3. we want this change to be reflected in remote repository so WE Pushed local commits to remote repository using push origin button
 4.observe it has been added in your repository
 under GitHub.com
+
+How to save after adding some text in ssublime
+on mac Command+S
+or click on file ->save
+
+
+We do not have to push ome commit at a time
+
+
+
+
